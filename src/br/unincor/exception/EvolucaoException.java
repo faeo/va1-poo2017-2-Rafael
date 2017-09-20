@@ -4,7 +4,6 @@ import br.unincor.model.Pokemon;
 
 public class EvolucaoException extends Exception {
 
-	private static final long serialVersionUID = 1L;
 	
 	private Pokemon p;
 	
